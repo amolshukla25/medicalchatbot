@@ -2,8 +2,8 @@ streamlit
 sqlalchemy
 psycopg2-binary
 python-dotenv
-passlib[bcrypt]
+
 python-jose
 openai
-pip install google-genai
+google-genai
 
